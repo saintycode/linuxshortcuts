@@ -1,26 +1,3 @@
 # linuxshortcuts
 Linux short cut commands 
 
-ls	-   List all the files in a directory
-ls -l	- List all files and their details (owner, mtime, size, etc)
-ls -a	- List all the files in a directory (including hidden files)
-pwd	Show the present working directory
-cd	-   Change directory to some other location
-file	- View the type of any file
- 
-
-View, Create, Edit, and Delete Files and Directories
-Command	Description
-
-mkdir -   	Create a new directory
-touch -	    Create a new, empty file, or update the modified time of an existing one
-cat >  -    file	Create a new file with the text you type after
-cat  -      file View the contents of a file
-grep	   -  View the contents of a file that match a pattern
-nano -      file	Open a file (or create new one) in nano text editor
-vim -       file	Open a file (or create new one) in vim text editor
-rm / rmdir- Remove a file or empty directory
-rm -r -    	Remove a directory that isn’t empty
-mv	-       Move or rename a file or directory
-cp	-       Copy a file or directory
-rsync	-     Synchronize the changes of one directory to another
