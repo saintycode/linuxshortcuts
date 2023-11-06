@@ -7,7 +7,10 @@ ls -a	- List all the files in a directory (including hidden files)
 pwd	Show the present working directory
 cd	-   Change directory to some other location
 file	- View the type of any file
- 
+snlookup - name of server
+fsck - check disk
+arp - devices connected to the network
+
 
 View, Create, Edit, and Delete Files and Directories
 Command	Description
